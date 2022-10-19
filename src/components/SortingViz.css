@@ -1,0 +1,28 @@
+*{
+    color: aliceblue;
+    background-color: #002B5B;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+  }
+  
+  .array-container{
+    position: fixed;
+    padding-left: 100px;
+    padding-right: 100px;
+    bottom: 50px;
+  }
+  
+.array-bar{
+    width: 5px;
+    margin: 0 1px;
+    display: inline-block;
+}
+
+button{
+    font-weight: bold;
+    border-color: aliceblue;
+    padding: 10px;
+}
